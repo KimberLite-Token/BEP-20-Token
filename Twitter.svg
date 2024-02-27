@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198.94 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f06724;
+        font-family: PlusJakartaSans-SemiBold, 'Plus Jakarta Sans';
+        font-size: 16px;
+        font-weight: 600;
+      }
+
+      .cls-2 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-4 {
+        fill: #2468ac;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(58.51 25.06)"><tspan x="0" y="0">@Kimberli</tspan><tspan class="cls-5" x="78.37" y="0">t</tspan><tspan x="84.69" y="0">e</tspan><tspan class="cls-2" x="94.5" y="0">T</tspan><tspan x="101.89" y="0">o</tspan><tspan class="cls-5" x="112.33" y="0">k</tspan><tspan x="121.25" y="0">en</tspan></text>
+  <g>
+    <circle class="cls-4" cx="20" cy="20" r="20"/>
+    <g id="layer1">
+      <path id="path1009" class="cls-3" d="m7.68,8.41l9.56,12.78-9.62,10.39h2.17l8.42-9.1,6.8,9.1h7.37l-10.1-13.5,8.95-9.67h-2.17l-7.76,8.38-6.27-8.38h-7.37Zm3.18,1.59h3.38l14.95,19.99h-3.38L10.86,10.01Z"/>
+    </g>
+  </g>
+</svg>
